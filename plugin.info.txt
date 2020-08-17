@@ -1,0 +1,7 @@
+base   emojionetoolbar
+author avks
+email  abhisek.dutt@gmail.com
+date   2020-08-17
+name   Emojione Toolbar
+desc   A Dokuwiki plugin to add emojione to editing toolbar
+url    https://www.dokuwiki.org/plugin:emojionetoolbar
