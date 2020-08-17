@@ -1,6 +1,8 @@
 ### 😄 Emojione for Dokuwiki
 A very simple plugin that lets you insert native emojis using [EmojioneArea](https://github.com/mervick/emojionearea)
 
+![EmojioneArea version 3.0.0](http://mervick.github.io/emojionearea/images/v3.png)
+
 Emoji-picker is available on the wikitext editor in two ways:
 
 1. Pressing <kbd>TAB</kbd>
