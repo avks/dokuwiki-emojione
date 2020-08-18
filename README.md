@@ -8,6 +8,8 @@ Emoji-picker is available on the wikitext editor in two ways:
 1. Pressing <kbd>TAB</kbd>
 2. Typing `:`
 
+**Note:** The built-in toolbar buttons _**won't**_ work if this plugin is active. See #1
+
 #### ⚠️  Alpha
 I wrote this plugin in 30 minutes to learn how to write a simple Dokuwiki plugin. This is my first plugin, many best practices may not have been followed. So please be gentle on me. 😟
 
